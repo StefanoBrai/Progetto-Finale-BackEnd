@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "\\Controllers",
+    "\\Models",
+    "\\Models\\Repository",
+    "\\Models\\Repository\\Abstractions"
+  ],
+  "PreviewInSolutionExplorer": false
+}
